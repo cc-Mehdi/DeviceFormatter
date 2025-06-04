@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0v8dQipZQXuDuWmuwefqwudpo85oXEM+AXdm9eEMpCpnEHDgafK/e/Jji+m6smimfLgZjsM6rhAzBZNggTUVZA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cc-mehdi\\Desktop\\DeviceFormatter\\DeviceFormatter\\DeviceFormatter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cc-mehdi\\.nuget\\packages\\system.codedom\\9.0.5\\system.codedom.9.0.5.nupkg.sha512",
+    "C:\\Users\\cc-mehdi\\.nuget\\packages\\system.management\\9.0.5\\system.management.9.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
